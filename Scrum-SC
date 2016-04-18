@@ -1,14 +1,16 @@
 Como posso saber se meu projeto é complexo a ponto de usar o Scrum?
 	Temos que fazer um levantamento de requisitos e tecnologias que serão empregadas ao projeto. 
 Quanto mais soubermos dos requisitos e tecnologias usadas mais fácil para completarmos o Job. 
-Quando temos um domínio da tecnologia e bons conhecimentos dos requisitos podemos utilizar a metodologia em cascata onde uma fase é iniciada após a outra
-agora quando conhecemos pouco os requisitos ou a tecnologia vai ficando de acordo com o tempo mais complexa dificultando o domínio da mesma temos um cenário caótico e aí que entra o Scrum.
+Quando temos um domínio da tecnologia e bons conhecimentos dos requisitos podemos utilizar a metodologia em cascata onde uma 
+fase é iniciada após a outra agora quando conhecemos pouco os requisitos ou a tecnologia vai ficando de acordo com o tempo mais 
+complexa dificultando o domínio da mesma temos um cenário caótico e aí que entra o Scrum.
 
 Agora se não conhece os requisitos e tecnologia empregada temos uma total anarquia trnando impossível concluir um projeto.
 
 O Scrum possui 3 pilares fundamentais, sendo o primeiro a Transparência sendo evidente pois todos estão cientes dos requisitos, 
-processos e do andamento do projeto, em segundo tem a inspeção porque o tempo todo é verificado o andamento em reuniões diárias ou Sprint review 
-e finalizando com a adaptação vendo de duas formas.
+processos e do andamento do projeto, em segundo tem a inspeção porque o tempo todo é verificado o andamento em reuniões diárias 
+ou Sprint review e finalizando com a adaptação vendo de duas formas.
+
 1. O produto que está sendo consumido sofre alterações a todo tempo conforme as mudanças vão acontecendo.
 2. Desde que preservados os valores e práticas você adapta conforme a sua empresa. 
 
@@ -22,42 +24,48 @@ Tempos 3 práticas fundamentais para a utilização do Scrum
 
 Obs: Se não tiver esses 3 não tem Scrum, depois os eventos básicos compostos dê:
 
-Planejamento do Sprint, depois a execução do Sprint, reuniões diárias, revisão do Sprint, a retrospectiva	e por fim os artefatos gerados que são.
+Planejamento do Sprint, depois a execução do Sprint, reuniões diárias, revisão do Sprint, a retrospectiva e por fim os artefatos
+gerados que são.
+
 Product backlog | Sprint Backlog | Entrega parcial do produto.
 
 Vamos entender os papéis.
 
 PO 
-Ponto central com poderes de liderança sobre o produto. Ele é o unico responsável por decidir quais recursos e funcionalidades serão construidos e 
-qual a ordem que devem ser feitos. Ele deve entender e comunicar a todos os participantes uma visão clara do que a equipe está buscando alcançar no 
-projeto sendo ele que prioriza os itens do Product Backlog.
+Ponto central com poderes de liderança sobre o produto. Ele é o unico responsável por decidir quais recursos e funcionalidades 
+serão construidos e qual a ordem que devem ser feitos. Ele deve entender e comunicar a todos os participantes uma visão clara 
+do que a equipe está buscando alcançar no projeto sendo ele que prioriza os itens do Product Backlog.
 
 Scrum Master
-Responsável por ajudar a todos os envolvidos a entender e abraçar os valores, principios e práticas do Scrum, ele tem que conhecer muito bem o Scrum 
-o papel dele é agir como um Coach executando a liderança do processo e ajudando a equipe a desenvolver sua propria abordagem de Scrum e em geral é um 
-facilitador ou seja, não é chefe de ninguém.
+Responsável por ajudar a todos os envolvidos a entender e abraçar os valores, principios e práticas do Scrum, ele tem que 
+conhecer muito bem o Scrum o papel dele é agir como um Coach executando a liderança do processo e ajudando a equipe a desen
+volver sua propria abordagem de Scrum e em geral é um facilitador ou seja, não é chefe de ninguém.
 
 Dev Team
-São as pessoas que irão construir o projeto porque eles decidirão como e não um gerente. A equipe se organiza para determinar a melhor forma de 
-entregar no prazo estabelecido ao PO. 
+São as pessoas que irão construir o projeto porque eles decidirão como e não um gerente. A equipe se organiza para determinar 
+a melhor forma de entregar no prazo estabelecido ao `PO`. 
 
 			Como funciona a visão - A Visão do produto
 
 O PO descreve o que ele quer e onde quer chegar!
 
 Assim sendo se desmembra as funcionalidades com uma lista de atividades `Product Backlog`. 
-O Scrum Master atuando como um Coach auxilia o PO nessa tarefa. Essas funcionalidades são ordenadas por prioridades `mais valor ao negócio` e essa 
-priorização é responsabilidade do PO e para fazer isso ele tem um template, modelo de como fazer dessa forma ele tem uma lista de requisitos priorizadas;
+O Scrum Master atuando como um Coach auxilia o PO nessa tarefa. Essas funcionalidades são ordenadas por prioridades 
+`mais valor ao negócio` e essa priorização é responsabilidade do PO e para fazer isso ele tem um template, modelo de como 
+fazer dessa forma ele tem uma lista de requisitos priorizadas;
 
-O projeto é planejado em Sprints que são período de tempos selecionados onde alguns dos itens do Product backlog serão construídos e entregues. Para planejar os Sprints devemos obedecer uma regra básica do Scrum que são os eventos de duração física chamados de time boxed; O ideal é que todos os Sprints tenham um tempo e a mesma duração de 2 a 4 semanas. 
+O projeto é planejado em Sprints que são período de tempos selecionados onde alguns dos itens do Product backlog serão 
+construídos e entregues. Para planejar os Sprints devemos obedecer uma regra básica do Scrum que são os eventos de duração 
+física chamados de time boxed; O ideal é que todos os Sprints tenham um tempo e a mesma duração de 2 a 4 semanas. 
 
 Antes de cada Sprint começar é feito uma reunião de planejamento chamada de Sprint Planning onde é criado o backlog da Sprint.
 Com base na capacidade, velocidade da equipe Scrum é definido quantas funcionalidades podem ser construídas no tempo do Sprint; 
 
-Primeiro o backlog priorizado é selecionado algumas funcionalidades que serão feitas durante o Sprint, depois do termino do Sprint é esperado que um 
-incremento seja entregue suponha que seja um sistema uma parte será entregue funcionando neste momento. Veja que os próximos ítens a serem desenvolvidos
-não foram escolhidos de forma aleatória e sim seguindo a ordem descrita pelo `PO`, conforme vão sendo entregues ele vai dizer se pode ou não haver 
-mudanças e essas devem ser inseridas no Backlog em sua devida prioridade e esse processo será repetido até que a conclusão seja realizada contemplando 
+Primeiro o backlog priorizado é selecionado algumas funcionalidades que serão feitas durante o Sprint, depois do termino do 
+Sprint é esperado que um incremento seja entregue suponha que seja um sistema uma parte será entregue funcionando neste momento. 
+Veja que os próximos ítens a serem desenvolvidos não foram escolhidos de forma aleatória e sim seguindo a ordem descrita pelo 
+`PO`, conforme vão sendo entregues ele vai dizer se pode ou não haver mudanças e essas devem ser inseridas no Backlog em sua 
+devida prioridade e esse processo será repetido até que a conclusão seja realizada contemplando 
 todas as mudanças solicitadas.
 
 Todo dia é feita uma reunião de 15 minutos onde cada integrante do grupo deve responder 3 perguntas básicas:
@@ -70,16 +78,19 @@ Todo dia é feita uma reunião de 15 minutos onde cada integrante do grupo deve 
 
 Utiliza-se o KANBAN para auxiliar o andamento 
 
-TRELLO => BACKLOG |	FAZENDO |	VALIDAÇÃO | CONCLUIDO
+TRELLO
+BACKLOG |	FAZENDO |	VALIDAÇÃO |	CONCLUIDO
 
-No final do Sprint `Sprint Review` existem 2 atividades adicionais que é validar e adaptar o produto que está sendo consumido; é verificar se o que está sendo feito está de acordo com o esperado é a apresentação daquilo que foi feito no Sprint e aqui que surgem as mudanças e aqui que o Product Backlog 
-é atualizado.
+No final do Sprint `Sprint Review` existem 2 atividades adicionais que é validar e adaptar o produto que está sendo consumido; 
+é verificar se o que está sendo feito está de acordo com o esperado é a apresentação daquilo que foi feito no Sprint e aqui que 
+surgem as mudanças e aqui que o Product Backlog é atualizado.
 
-		Enquanto o objetivo do Sprint Review é verificar a necessidade de adaptações no produto a retrospectiva verifica a necessidade de adaptação do 
-processo; é aqui que se vê o que foi positivo e negativo `melhorar ou parar de fazer` 
+	Enquanto o objetivo do Sprint Review é verificar a necessidade de adaptações no produto a retrospectiva verifica a 
+necessidade de adaptação do processo; é aqui que se vê o que foi positivo e negativo `melhorar ou parar de fazer` 
 
 Num todo fica da seguinte forma:
 
-Visão do Produto ou esboço inicial -> se desdobra em Product Backlog -> esse backlog sofre Grooming que é sua priorização ou estimativa de tamanhos 
-depois durante o planejamento dos Sprints cria-se o Sprint Backlog que é a lista de história que será	criada durante o Sprint -> O Sprint dura de 
-2 a 4 semanas e todo dia no mesmo horário temos o Daily com as 3 perguntas e ao final do Sprint temos o Produto ou funcionalidade concluída.
+Visão do Produto ou esboço inicial -> se desdobra em Product Backlog -> esse backlog sofre Grooming que é sua priorização ou 
+estimativa de tamanhos depois durante o planejamento dos Sprints cria-se o Sprint Backlog que é a lista de história que será 
+criada durante o Sprint -> O Sprint dura de 2 a 4 semanas e todo dia no mesmo horário temos o Daily com as 3 perguntas e ao 
+final do Sprint temos o Produto ou funcionalidade concluída.
