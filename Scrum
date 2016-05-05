@@ -1,0 +1,351 @@
+			?	Cultura de desenvolvimento do Spotify
+
+Os conceitos de Dono do Produto (Product Owner), Pendências do Produtor (Product Backlog) e Sprints semanais
+
+Cada vez mais eu percebia que se pudesse coordenar pensadores independentes com feedback constante sobre o seu ambiente, 
+obteria níveis de desempenho muito mais elevados.
+
+O aperfeiçoamento do fluxo de informações entre os times “pernas” de um grupo resultaria em níveis de eficiência nunca antes alcançados.
+
+Não é utilizado o método cascata com o Scrum, as melhores empresas usavam um processo de desenvolvimento de sobreposição, que era mais rápido e mais flexível. As equipes eram multifuncionais. Tinham autonomia e
+um objetivo transcendente: estavam em busca de algo maior do que elas mesmas.
+
+A direção não impunha ordens — ao contrário, os executivos eram líderes facilitadores focados em retirar os obstáculos do caminho, não em determinar o que deviam fazer e como deveriam desenvolver o produto. Os
+professores japoneses compararam o trabalho de equipe a um time de rúgbi e diziam que as melhores equipes agiam como se houvesse um scrum: “[...] a bola é passada pelo time conforme ele avança, como uma unidade, pelo campo”
+
+um processo descritivo de como os seres humanos trabalhavam melhor juntos em qualquer empreendimento. 
+Esse foi o nascimento formal do Scrum.
+
+Não basta melhorar uma vez, é preciso fazê-lo constantemente. Sempre procure algo que possa ser aprimorado. Nunca, jamais, conforme-se com o lugar onde está. A maneira como você atinge seus objetivos é sempre experimentar, até que consiga perceber se atingiu um ponto mais alto. Se eu tentar esse método, o resultado será melhor? E quanto a esse outro? E se eu mudar esse pequeno detalhe?
+
+
+			o ciclo PDCA (Plan [planeje], Do [faça], Check [verifique], Act
+[aja]). É possível aplicá-lo à produção de qualquer produto, seja um carro,
+um video game ou, até, um avião de papel.
+
+
+	PONTOS PRINCIPAIS
+			-> Hesitação é a morte. Observe, avalie, decida, aja. Saiba onde está, avalie suas opções, tome uma decisão e aja!
+
+			->	Procure respostas. Sistemas adaptativos complexos seguem algumas regras simples, que aprendem a partir do ambiente em que se encontram.
+
+			->	Grandes equipes. São multifuncionais, autônomas, capazes de tomar decisões e motivadas por um objetivo transcendente.
+
+			->	Não adivinhe. Planeje (Plan — P), Faça (Do — D), Verifique (Check — C), Aja (Act — A): planeje o que vai fazer. Faça. Verifique se o resultado é o que desejava. Aja de acordo com as informações e faça as coisas
+			de outra maneira. Repita em ciclos regulares e, ao fazer isso, obtenha um aprimoramento contínuo.
+
+			->	Shu Ha Ri. Primeiro, aprenda as regras e as formas e, uma vez que as dominar, faça inovações. Por fim, em um estado elevado de domínio, descarte as formas e apenas seja — com todo o aprendizado internalizado as decisões são tomadas de forma quase inconsciente.
+
+
+Um dos conceitos-chave do Scrum é que os membros da equipe decidem, eles mesmos, como irão executar o trabalho. A responsabilidade da direção da empresa é estabelecer os objetivos estratégicos, e o trabalho da
+equipe é decidir como atingi-los.
+
+A cada ciclo três perguntas simples: “o que você fez desde a última vez que conversamos?”; “O que você vai fazer antes de voltarmos a conversar?”; “O que está atrapalhando o seu trabalho?”. O fato de ele fazer essas três perguntas, que é um dos rituais regulares do Scrum, forçava os correspondentes a falarem e a dividirem informações uns com os outros.
+
+			os membros da equipe se autogerenciavam
+
+				?	modelo em cascata
+
+
+			busca nas equipes é a diversidade — de conjunto de habilidade, pensamento e experiência.
+			
+Ela quer equipes que sejam altruístas e autônomas, mas também precisa que sejam interfuncionais. Equipes que consigam fazer com que o projeto inteiro seja concluído.
+
+Um dos testes para ela saber se a equipe está no caminho certo é quando pergunta, digamos, para um engenheiro de rede: “Em que equipe você está?”. Se a pessoa responder mencionando o produto em que estão
+trabalhando (automação ou integração, por exemplo) em vez de sua especialidade (ou seja, engenharia de rede), ela assente em aprovação.
+Quando um especialista se identifica mais com a sua especialidade do que com o produto que está desenvolvendo, Nicola sabe que ainda tem trabalho a fazer.
+
+Em vez de ter todos esses
+especialistas em equipes separadas que raramente compartilhavam
+informações, todos trabalharam juntos, na mesma sala, compartilhando
+informações de inteligência e planejando rastrear e matar os agentes da Al-
+Qaeda.
+
+um dos motivos do desenvolvimento do Scrum: sempre que há
+transferências entre equipes, existe a possibilidade de desastre. 
+
+A fórmula clássica são sete pessoas, o fascinante é que os dados mostram que se você tiver mais do que nove pessoas em uma equipe, a velocidade costuma cair.
+
+Grupos de três a sete pessoas precisavam de
+25% menos esforço do que os de nove a 12 pessoas para realizar o mesmo
+trabalho. 
+
+Mas por quê?
+
+Foi realizado um estudo mostrando que o número máximo de itens que uma pessoa normal consegue reter na memória de curto prazo é sete.
+Supostamente, esse é o motivo pelo qual os números de telefone são formados por sete dígitos.
+
+Com um amplo estudo foi constatado que uma pessoa consegue reter na memória de curto prazo não é sete,
+mas quatro "nós só conseguimos nos lembrar de quatro “pedaços” de dados."
+
+
+====	>	Se você conseguir ligar as coisas na sua memória de curto prazo fazendo associações
+com a sua memória de longo prazo, então conseguirá guardar mais informações.
+Contudo, a parte da mente que se concentra — a parte consciente — só é capaz de reter cerca de quatro itens diferentes de cada vez.
+
+Se você quiser calcular o impacto do tamanho do grupo, pegue o número de pessoas em uma equipe e multiplique-o pelo “mesmo número menos um” e divida por dois. Canais de comunicação = n (n-1)/2. Então, por
+exemplo, se você tem uma equipe com cinco pessoas, você tem dez canais.
+Seis pessoas, 15 canais. Sete pessoas, 21. Oito, 28. Nove, 36. Dez, 45. O nosso cérebro simplesmente não é capaz de acompanhar esse número de pessoas de uma vez.
+
+	Todos em uma equipe Scrum têm de saber o que os outros estão fazendo. Todo o trabalho que está
+em andamento, os desafios enfrentados, os progressos feitos, tudo tem de ser transparente para todos.
+
+Sprints, reuniões diárias, revisões e retrospectivas, e percebi que precisávamos de alguém cujo trabalho seria certificar-se de que o processo em si era eficaz.
+
+Scrum deveria ser o facilitador de todas as reuniões, avaliar se havia transparência e, o mais importante, ajudar a equipe a descobrir quais eram os obstáculos no caminho.
+
+O trabalho do Scrum é guiar a equipe em direção ao aprimoramento contínuo — sempre perguntar “Como podemos fazer melhor o que fazemos?”.
+
+ao fim de cada iteração"Sprint", a equipe deve olhar para si mesma com muita atenção — para suas interações, práticas e processos — e fazer a si mesma duas perguntas: “O que podemos mudar no modo como trabalhamos?” e “Qual é o nosso maior problema?”. 
+Se essas duas perguntas forem respondidas de maneira direta e aberta, uma equipe pode realizar o trabalho mais rápido do que qualquer um jamais tenha imaginado.
+
+			Quantas vezes você se encontrou com um colega e
+			começou a falar mal de um terceiro que “não está fazendo a sua parte” ou
+			que “sempre nos atrasa” ou que “toma decisões idiotas”? Ou você estava em
+			um grupo tentando resolver um problema e a primeira coisa que todos fazem
+			é tentar encontrar um culpado?
+			Estou disposto a apostar que cada um de vocês já participou de uma
+			reunião desse tipo. Também aposto que cada um de vocês, em uma situação
+			ou outra, foi considerado o culpado pelo problema. Mas eu também estaria
+			aberto a apostar que quando você está colocando a culpa em alguém, você
+			encontra falhas a partir de um ponto de vista pessoal, ao passo que quando
+			você está levando a culpa, está muito mais ciente dos fatores situacionais que
+			levaram ao problema e dos motivos que o levaram a agir daquele modo. E
+			você sabe o que mais? Quando você fala de si mesmo, está absolutamente
+			certo. Quando fala dos outros, porém, está cometendo um dos erros mais
+			comuns — e destrutivos — dos seres humanos ao julgar as ações de outras
+			pessoas. Isso até tem um nome: “Erro Fundamental de Atribuição”.
+			Alguns estudos fascinantes relacionados a isso estão descritos no livro
+			Induction: Processes of Inference, Learning, and Discovery [Indução:
+			processos de inferência, aprendizagem e descoberta], escrito por John H.
+			Holland,
+
+
+O sistema que nos cerca, em vez de qualquer qualidade intrínseca, é o responsável por grande parte do nosso comportamento. O Scrum foi criado para mudar tal sistema. Em vez de buscar culpados e falhas,
+ele recompensa o comportamento positivo porque se concentra nas pessoas trabalhando em conjunto e conseguindo cumprir as tarefas.
+
+A resposta é que todos somos criaturas do sistema onde estamos inseridos, e o que o Scrum faz é aceitar tal realidade e, em vez de procurar um culpado, tenta analisar o sistema que produziu o erro e corrigi-lo.
+
+
+	Qual o ponto necessário para que as pessoas comecem a procurar alguém a quem culpar, em vez de buscar uma solução.
+
+diferente de muitas empresas de capital de risco, eles realmente não ligam a mínima para como a corporação gastou o dinheiro antes de seu investimento. O passado não importa.
+
+decide se quer investir com base no estado atual do negócio — todo o resto é insignificante. Eles querem saber como o dinheiro deles será gasto; como a empresa gastou o dos outros não é importante. Só o futuro — apenas as soluções — realmente importam.
+
+
+
+
+			?	[“Os perigos das obediência”
+			?	eu quero ajudar as pessoas a chegarem com o Scrum.
+Não é impossível. Não são apenas as elites, os atletas e as pessoas especiais que conseguem fazer isso. O Scrum é sobre estabelecer o sistema certo com os devidos incentivos e dar às pessoas liberdade, respeito e
+autoridade para fazerem as coisas por si mesmas. A grandiosidade não pode ser imposta, precisa vir de dentro. E, o melhor, ela existe em todos nós.
+
+			PONTOS PRINCIPAIS
+
+-->	A alavanca certa. 
+Mude o desempenho da equipe. Isso tem um impacto
+muito maior — em várias ordens de grandeza enorme — do que o
+desempenho individual.
+
+--	Transcendência. Grandes equipes têm um objetivo muito maior do que
+o individual — por exemplo, participar do enterro do General
+MacArthur, vencer o campeonato de basquete da NBA.
+
+--	Autonomia. Dê às equipes a liberdade de tomarem as próprias decisões
+e o modo como vão agir — para ser respeitado como mestre de sua
+arte. A capacidade de improvisar fará toda a diferença, esteja a equipe
+cobrindo uma revolução do Oriente Médio ou vendendo algum produto.
+
+--	Interfuncionalidade. A equipe deve ter todas as capacidades necessárias
+para concluir um projeto, seja a missão entregar um software para a
+Salesforce.com, seja ou capturar terroristas no Iraque.
+
+--	Pequenas vitórias. Equipes pequenas trabalham mais rápido do que
+equipes grandes. A regra prática são sete membros por equipe —
+podendo variar dois a mais ou a menos.
+
+--	Procurar culpados é burrice. Não procure pessoas ruins; procure
+sistemas ruins — aqueles que incentivam mau comportamento e
+premiam desempenhos medíocres.
+
+
+			O Sprint no Scrum
+		Foi dado esse nome por evocar uma qualidade de intensidade. Todos vamos trabalhar por períodos curtos e, então, paramos para ver aonde chegamos.
+
+De três em três semanas, cada equipe tinha de demonstrar para os colegas o projeto no qual estavam trabalhando.
+
+uma exposição aberta; qualquer um poderia assistir. E se não funcionasse ou não fosse legal eram feitos ajustes adequando ao Job, e, o mais importante, eles recebiam um feedback imediato sobre o trabalho.
+
+Quanto mais cedo você entregar o produto para os clientes, mais rápido eles serão capazes de dizer se você
+está fazendo algo de que precisam.
+
+		
+	#####Raramente recebemos um feedback durante o trabalho, após finalizar talvez não receba porque se passou tanto tempo de inicio-fim que sofreu mudanças fundamentais. 
+
+muitas das melhores equipes hoje, trabalham com Sprints de uma semana. Toda quinta-feira, eles se sentam e olham para uma lista grande das pendências, que inclui tudo: desde o protótipo de um novo painel até testar as setas dos carros. Eles organizam a lista por prioridade e dizem: 
+“tudo bem, considerando essa lista, quantas coisas conseguiremos fazer nesta semana?”; e quando dizem “fazer”, o que eles querem dizer é “concluir” — de forma completa. Essas novas características funcionam. O carro pode ser dirigido. Toda semana. Em cada Sprint.
+
+	você encontra dezenas e mais dezenas dos artefatos mais comuns encontrados no Scrum: post-its.
+
+	Em cada um desses quadradinhos de papel, há algo que precisa ser feito: “furar o tubo para o encaixe da engrenagem de direção”, “preparar o molde interno”, “revestimentos internos do para-lama para evitar
+borrifos dos pneus” etc. 
+O quadro está dividido em algumas colunas: “Pendências”, “Fazendo”, “Feito”. A cada Sprint, os membros da equipe da WIKISPEED colocam na coluna “Pendências” quantos post-its eles acham que conseguem concluir no
+decorrer da semana. Conforme o tempo passa, um membro da equipe pegará uma daquelas tarefas e a colocará na coluna “Fazendo”. Quando tal tarefa é finalizada, o post-it passará para a coluna “Feito”. Todos na equipe conseguem visualizar o que cada um está fazendo o tempo todo.
+Um ponto importante: nenhuma tarefa vai para a coluna “Feito”, a não ser que possa ser cumprida pelo cliente. Em outras palavras: você pode dirigir o carro. E se alguém dirige o carro e diz “ei, a seta está agarrando”, então, esse problema será resolvido no próximo Sprint.
+
+Os Sprints às vezes são chamados de “caixas de tempo”, porque são definidos para ter certa duração. Você não pode fazer um Sprint de uma semana e, depois, um de três semanas. Você precisa ser consistente: quer
+estabelecer o ritmo de trabalho no qual as pessoas saibam o que pode ser feito em determinado período. Em geral, a quantidade os surpreende.
+
+Um elemento crucial de um Sprint individual, porém, é que uma vez que a equipe se compromete com o objetivo, as tarefas são bloqueadas. Nada mais pode ser acrescentado por ninguém fora da equipe.
+
+Definimos Sprints de quatro semanas. Quase no final do primeiro Sprint, percebemos que não estávamos sendo rápidos o suficiente, poderíamos fazer mais.
+Assistimos ao vídeo do All Blacks fazendo a haka e ultrapassando a linha dos oponentes.
+
+Por que não somos assim?, perguntamos. Por que não temos esse tipo de espírito? O nosso objetivo não era apenas ser uma boa equipe, mas ser a melhor. Como conseguiríamos isso? Uma vez mais, a resposta foi algo simples que “roubamos” de outra pessoa — uma reunião diária.
+
+
+Reunião diária
+
+Existem duas equipes: uma de hardware e outra de software, cada qual
+composta por sete pessoas. Todos os dias as equipes se reúnem diante de um
+quadro branco que cobre a parede de cima a baixo e de um lado a outro.
+
+desenhadas no quadro:
+“Pendências”, “Fazendo”, “Feito”. Listadas nas colunas estão apenas as
+coisas que a equipe precisa fazer durante aquele Sprint.
+
+a pessoa responsável por dirigir o processo, faz três
+perguntas para cada um dos membros da equipe:
+1. O que você fez ontem para ajudar a equipe a concluir o Sprint?
+2. O que você vai fazer hoje para ajudar a equipe a concluir o Sprint?
+3. Que obstáculos a equipe está enfrentando?
+
+Demora até 15', passando o tempo tem algo errado porque o objetivo é se ajudar e saber em qual etapa do projeto estão.
+
+O problema que costumo ver é que as pessoas têm a tendência de tratar as reuniões diárias simplesmente como um relatório individual. “Eu fiz isso...
+Eu vou fazer aquilo” — e depois passam para a outra pessoa.
+
+A ideia é que a equipe converse de forma rápida de como poderão seguir em direção à vitória — ou seja, concluir um Sprint.
+
+Eu quero equipes que saiam da reunião dizendo coisas como “Vamos
+nessa. Vamos conseguir”. A equipe precisa querer ser grandiosa.
+O meu discurso padrão para equipes grandes e pequenas é: “Vocês
+querem ser horríveis para o resto da vida? É essa a sua motivação? Porque
+existe uma escolha, sabe? — você não precisa ser assim”. Uma equipe
+precisa exigir de si mesma a grandiosidade.
+
+
+Repetições
+
+Você consegue que mais coisas sejam feitas de forma mais rápida e mais barata — o dobro de trabalho na metade do tempo.
+
+			O que o Scrum faz é alterar o modo como você pensa sobre o tempo.
+
+Cada Sprint é uma oportunidade de fazer algo
+totalmente novo; a cada dia, uma chance de se aprimorar. O Scrum encoraja
+uma visão holística do mundo. A pessoa que se compromete com isso passará
+a valorizar cada momento como um ciclo recorrente de fôlego e de vida.
+
+Pense no seu trabalho. Quanto tempo é desperdiçado enquanto você espera alguém concluir uma tarefa, ou receber alguma informação, ou porque está tentando fazer um monte de coisas ao mesmo tempo?
+
+	PONTOS PRINCIPAIS
+
+--	O tempo é finito. Trate-o dessa forma. Divida seu trabalho em unidades que possam ser realizadas em um período definido, curto e regular — o ideal são quatro semanas. E, se você pegar a febre Scrum, pode chamar essas unidades de Sprint.
+
+--	Demonstre ou morra. No final de cada Sprint, você precisa ter algo pronto — algo que possa ser usado (para voar, dirigir ou qualquer outra coisa).
+
+--	Jogue seus cartões de visita fora. Cargos são marcadores especializados de status. Seja conhecido pelo que faz e não pelo modo como as pessoas se referem a você.
+
+--	Todo mundo sabe de tudo. A saturação da comunicação acelera o trabalho.
+
+--	Uma reunião por dia. Quando se trata de verificar o trabalho da equipe, uma vez por dia é o suficiente. Reúna-se por 15 minutos na reunião diária, veja o que pode ser feito para aumentar a velocidade e faça isso.
+
+
+	O desperdício é um crime
+
+
+“desperdício é mais um crime contra a sociedade do que uma perda nos negócios”.
+
+
+	Fazer uma coisa de cada vez
+
+O conceito de “Trabalhar em processo” ou “Inventário”. A ideia é que é um desperdício ter um monte de coisas à sua volta se elas não forem usadas para construir algo.
+
+		Essas coisas, sejam elas
+portas de carro ou peças, custam dinheiro e, se estão no chão de fábrica, significa que uma grande quantia de dinheiro está empatada em um estoque que, na verdade, não é necessário naquele momento.
+
+Isso muda a maneira como você olha as coisas que estão em processo. Se, por exemplo, tudo o que uma fábrica de automóveis tem é um monte de carros pela metade, ela gastou muito dinheiro e esforço, mas não criou nada de valor real. Na produção enxuta, a ideia é minimizar pela metade a quantidade de coisas construídas espalhadas pela fábrica.
+
+Vamos pegar algo bem simples que quase todo adulto casado no planeta tem: uma lista de
+tarefas domésticas. Em qualquer semana, a minha lista conta com dez a vinte tarefas que preciso cumprir. Elas variam desde pintar novamente o banheiro até comprar mais ração para o cachorro, ou pagar a hipoteca e limpar o jardim. Essas são tarefas do cotidiano, o ônus de ser um membro totalmente integrado à sociedade. Agora, existem várias maneiras de cumprir as tarefas da tal lista. Mas o maior erro que você pode cometer é tentar fazer cinco
+coisas de uma vez. Isso é ser multitarefa, e você provavelmente não conseguirá fazer tudo, o que vai deixá-lo com um “trabalho em processo”.
+Imagine (ou, se já aconteceu com você, lembre-se) que você tem cinco tarefas parcialmente feitas. Você pintou uma das paredes do banheiro, a ração do cachorro ainda está no porta-malas do carro, e o cheque da hipoteca já está preenchido, mas ainda não foi enviado, e você já juntou as folhas do jardim, mas falta ensacá-las. Você se esforçou, mas não criou nada de valor.
+O valor só é obtido quando as latas de tinta e o pano que protegeu o ladrilho já não estão mais no banheiro, o cachorro já foi alimentado, o banco recebeu o dinheiro e o jardim está limpo. Fazer as coisas pela metade é o mesmo que não fazer nada.
+
+No Scrum, existe um ritmo para o trabalho. A cada iteração ou Sprint, a equipe tenta concluir determinado número de tarefas.
+Mas “concluir” significa um produto completo que pode ser entregue e usado por um cliente. Se algo está feito pela metade no final do Sprint, você está pior do que se nem tivesse começado. Você gastou recursos, esforço e tempo e não conseguiu nada que se encontre em um estado que pode ser entregue.
+Você tem um carro pela metade. Talvez tivesse sido melhor criar algo menor — algo que realmente funcione.
+
+Outra maneira de olhar para o “trabalho em processo” ou “estoque” é simplesmente considerá-lo um estoque físico. Vamos pegar carros como exemplo. Ter toneladas de carros parados sem serem vendidos é um problema para um fabricante. Mas não ter carros disponíveis para serem
+vendidos também é um problema. Então, cada fabricante e agência de vendas entram em um acordo cuidadosamente equilibrado. Eles querem produzir veículos o suficiente para manter o estoque disponível, mas não tantos que sejam obrigados a investir quantias enormes de dinheiro em coisas que não estão vendendo.
+
+Quantos dias de estoque uma fábrica de carros deve ter? O padrão da indústria é cerca de sessenta dias — menos da metade do que a GM tinha.
+Pense nisso. Quando você compra ração para o cachorro no supermercado, não quer comprar um suprimento para seis meses. Isso ocupa lugar na garagem e pode custar muito caro, de forma que o cheque da hipoteca não poderá ser emitido naquele mês.
+
+O problema é que estoque muito alto é a mesma coisa que "trabalho em processo"
+
+O trabalho que não é feito e produtos que não estão sendo usados são dois aspectos da mesma coisa: esforço investido sem qualquer resultado positivo. Não faça isso. 
+
+		Faça certo da primeira vez
+
+por que algumas empresas produziam carros mais rápido e com menos defeitos do que outras.
+
+Eis o motivo: na fábrica da Toy ota, quando um problema aparece na linha de produção, cada
+trabalhador tem a capacidade de parar toda a linha. Quando isso acontece, todos se reúnem na linha que parou — não para brig
+
+r com o cara que fez isso, mas para corrigir o problema detectado. Eles não querem que qualquer carro saia na outra ponta com defeitos a serem concertados, querem é corrigir o problema de uma vez, porque assim estará resolvido para sempre.
+Se não fizerem isso, aquele mesmo defeito poderá aparecer em centenas de veículos.
+
+Os fabricantes europeus de carros de luxo na Europa tinham um modo
+diferente de fazer as coisas. No final da linha de produção, havia dezenas de
+pessoas com jalecos brancos para consertar todos os problemas. Eles se
+certificavam de que a porta do carro tinha aquele som da BMW ao se fechar,
+que o motor ronronava no tom certo, que todas as partes estavam encaixadas
+da forma correta. Eles não se viam como fabricantes, mas como artesãos,
+artistas criando uma obra de arte. Isso é ótimo quando você produz poucos
+carros, mas quando fabrica milhões deles, os custos sobem muito.
+
+
+Nem sempre fazemos as coisas de forma perfeita na primeira vez. Nós somos humanos, cometemos erros. A maneira como você lida com esses erros pode ter um impacto extraordinário na velocidade e no nível de qualidade com que você faz as coisas. Na Toy ota, conforme eu disse, cada um dos trabalhadores pode parar a linha. A ideia é que o processo seja aprimorado de forma contínua, e que o momento certo de corrigir um problema seja quando ele é detectado, e não depois.
+
+Quando você está trabalhando em um projeto, cria um espaço em volta dele
+na sua mente sabendo todos os motivos diferentes que explicam porque algo está sendo feito, e mantém uma construção bastante complexa na sua cabeça.
+ 
+O único elemento novo que os dados acrescentam é que, se você cometer um erro — e todos nós cometemos —, corrija-o assim que o notar. Se você não o fizer, vai pagar caro por isso.
+
+		Trabalhar demais resulta em mais trabalho
+
+Mesmo trabalhando menos horas, ele conseguia produzir mais do
+que os outros “caras”
+
+Então, decidiu tentar trabalhar apenas cinco dias
+por semana. E descobriu que conseguia produzir ainda mais. “Trabalhe
+mais”, disse ele, “e você produzirá menos”.
+
+trabalhar até mais tarde não era um sinal
+de comprometimento, era um sinal de fracasso. “Não é porque eu quero que
+vocês tenham uma vida equilibrada”, dissera ele ao pessoal, “é porque vocês
+vão conseguir produzir mais”.
+
+“Mas existe uma correlação direta. Você consegue uma produtividade
+maior. Você é mais feliz. E você tem mais qualidade”. É óbvio. Trabalhar
+menos aumenta a produtividade e a qualidade
+
+pessoas que trabalham horas demais começam a cometer erros, o que, como já vimos, pode exigir mais esforço, porque consertar leva mais tempo do que para criar.
+
+O Scrum pede às pessoas que adotam esse método para quebrar o
+paradigma de medir o trabalho apenas em horas. A hora por si só representa
+um custo. Em vez disso, a medida deve ser feita em resultados. Quem se
+importa com o número de horas que alguém trabalhou em algo? Tudo que
+importa é a rapidez e a qualidade com que ele é entregue.
