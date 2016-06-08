@@ -1,0 +1,75 @@
+Clone o repositório da CS - cs-droidshop no Bitbucket
+Após a realização entre na pasta cr-droidshop/baseline
+
+* O MAVEN é uma ferramenta desenvolvida pela Apache que gerencia as dependências e automatiza seus Builds. O arquivo pom.xml é o arquivo de configuração.
+
+* o que é o Gradle ?
+Ele é um sistema para automatização de builds usando a  flexibilidade do Ant como gerenciamento de dependencias e as convenções do Maven. Os builds do Gradle são scripts escritos em Groovy, opostos como são realizados usando Ant e Maven que usam arquivos XML. O Gradle permite programações por ser baseado em scripts contando com plugins que adicionam funcionalidades extras.
+
+O Android Studio e o Hibernate utilizam o Gradle por padrão.
+
+Dois conceitos usados:
+
+Projects: Todo build é feito de um ou mais projects e a visualização dependerá de como você irá utilizar e como exemplo, pode ser um project que gera um JAR ou uma aplicação web.
+Um project não representa o que será construído e sim o que será feito, deploy de uma aplicação para homologação ou produção.
+
+Tasks: Cada project é feito de uma ou mais tasks, uma task representa um pedaço de trabalho que uma build vai executar e como
+exemplo tasks que fazem a compilação de classes, criação de JARs e publicação de arquivos para um repositório especifico.
+
+Para executar o projeto após clonar é necessário chamar o gradle.
+
+- execute ./gradlew tasks (para listar as tasks)
+- execute ./gradlew tasks --all (lista as tasks mais detalhada)
+- execute ./gradlew assembleDebug  (gerar o binário)
+
+./gradlew (agora podemos ver as tasks do projeto)
+
+./gradlew tasks (ele vai imprimir todas as tasks possíveis do gradle)
+
+- para gerar o binário execute ./gradlew assembleDebug
+
+retornando a mensagem:
+
+build successful, ou seja, gerou o binário.
+
+Como gerou o binário, para a instalação são duas possibilidades
+
+Ou utilizar uma task do gradle que instala ou pegar o binário (apk) gerado na pasta: app/build/outputs/apk
+
+Na listagem, no campo install tasks tem duas opções
+            installDebug e installDebugAndroidTest
+
+installDebug será usado para instalar o aplicativo com saída:
+
+./gradlew installDebug
+:app:mergeDebugJniLibFolders UP-TO-DATE
+:app:transformNative_libsWithMergeJniLibsForDebug UP-TO-DATE
+:app:processDebugJavaRes UP-TO-DATE
+:app:transformResourcesWithMergeJavaResForDebug UP-TO-DATE
+:app:validateDebugSigning
+:app:packageDebug UP-TO-DATE
+:app:zipalignDebug UP-TO-DATE
+:app:assembleDebug UP-TO-DATE
+:app:installDebug
+Installing APK 'app-debug.apk' on 'LG-H818 - 5.1' for app:debug
+Installed on 1 device.
+
+Checando o aparelho tem que constar o apk (CS Ecommerce)
+
+Seguindo os procedimentos anteriores ele instala tanto no device local quanto emulador, veja abaixo.
+
+Installing APK 'app-debug.apk' on 'Google Nexus 6 - 6.0.0 - API 23 - 1440x2560 - 6.0' for app:debug
+Installing APK 'app-debug.apk' on 'LG-H818 - 5.1' for app:debug
+Installed on 2 devices.
+
+Para remover do device execute,
+
+./gradlew uninstallDebug
+Incremental java compilation is an incubating feature.
+:app:uninstallDebug
+Uninstalling br.com.concretesolutions.baseline.android (from app:debug) from device 'Google Nexus 6 - 6.0.0 - API 23 - 1440x2560 - 6.0' (192.168.57.101:5555).
+Uninstalled br.com.concretesolutions.baseline.android from 1 device.
+
+BUILD SUCCESSFUL
+
+Total time: 1.455 secs
